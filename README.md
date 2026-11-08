@@ -1,114 +1,89 @@
-<h1 align="center">🚨 Welcome to the Cyber Watchtower of <span style="color:#00FFD1">Siva K.T. Polisetty</span> 🛡️</h1>
-<h3 align="center">Blue Team Warrior | Red Team Tinkerer | AI-Sec Explorer | Social Tech Advocate</h3>
+<div align="center">
+
+# Siva Krishna Teja Polisetty
+
+**MSc Cybersecurity Student (Dublin, Ireland) | SOC Operations & Blue Team | Digital Forensics & Threat Intelligence**
+
+*"In cybersecurity, resilience comes from visibility, discipline, and staying five steps ahead."*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/polisetty-siva-krishna-teja-b99477220/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-008080?style=flat-square&logo=netlify&logoColor=white)](https://serene-klepon-b63fa4.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:krishnatejasiva2@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume_PDF-24292F?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/SivaKrishnaTeja482/SivaKrishnaTeja482/raw/main/Siva_KT_Cybersecurity_Resume_2025.pdf)
+
+</div>
 
 ---
 
-### 🔐 "In cybersecurity, there is no finish line—only evolving firewalls." 
+## About Me
+
+I am **Siva Krishna Teja Polisetty**, an MSc Cybersecurity student at **Dublin Business School (Ireland)** focused on turning foundational theory into repeatable, hands-on defense.
+
+- **Education:** MSc in Cybersecurity — Dublin Business School (Dublin, Ireland)
+- **Core Focus:** SOC Monitoring (L1/L2), Threat Intelligence, Incident Response, and Digital Forensics
+- **Domain Interest:** Healthcare cybersecurity, medical device & EHR protection, and regulatory compliance (GDPR, NIS2, NIST, ENISA)
+- **Open To:** Graduate SOC Analyst, Junior Cybersecurity / Digital Forensics Analyst, and IT/Technical Support roles in Ireland
 
 ---
 
-### 👨‍🚀 About Me
+## Technical Stack & Competencies
 
-I’m **Siva Krishna Teja Polisetty**, but in the cybersecurity realm, I go by **Siva K.T. Polisetty** — a committed digital defender with a dynamic blend of hands-on training, academic rigor, and a purpose-driven mindset. 
+![SIEM](https://img.shields.io/badge/SIEM-Splunk_%26_ELK-000000?style=flat-square&logo=splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Network_Forensics-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/AppSec-Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/OS-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Python](https://img.shields.io/badge/Automation-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-✅ **6+ months of cybersecurity training & internship experience** (Red Team | Blue Team | AI-Sec)  
-✅ Real-time exposure to threat simulation, phishing tactics, and automated vulnerability testing  
-✅ Passionate about building systems that don't just react—but anticipate.  
-
-> Currently preparing for AI-Sec Associate Certification and building a future-ready threat intelligence layer between law enforcement and enterprises.
-
----
-
-### 💼 My Portfolio
-
-🌐 **[Explore My Portfolio](https://serene-klepon-b63fa4.netlify.app/)**
+- **Security Operations:** SIEM log ingestion and correlation (Splunk / ELK), alert triage, threat hunting, and incident response
+- **Forensics & Analysis:** Packet capture inspection (Wireshark), malware triage, and digital forensics workflows
+- **Systems & Scripting:** Linux & Windows administration, Python security automation, Bash scripting, and cloud security fundamentals
+- **Application Security:** OWASP Top 10 vulnerability scanning, web request interception, and remediation verification
 
 ---
 
-### 🧪 Featured Projects
+## Featured Projects
 
-| Project | Description | Tools & Skills |
-|--------|-------------|----------------|
-| [OWASP-ZAP Vulnerability Assessment](#) | End-to-end automated vulnerability scanning including XSS, SQLi, insecure cookies | ZAP, OWASP Top 10, Python, Web Security |
-| [Lockphish Simulation](#) | Social engineering project to simulate phishing & analyze user behavior | Bash, Local Tunneling, Social Engineering, HTML |
-
-> 💡 These projects gave me real-time insight into how attacks are crafted and prevented.
+| Project | Overview & Defensive Value | Tools & Skills | Repository |
+| :--- | :--- | :--- | :--- |
+| **OWASP ZAP Web Vulnerability Assessment** | Automated and manual web app assessment identifying XSS, SQL injection, and insecure cookie configurations, paired with remediation notes. | OWASP ZAP, OWASP Top 10, Python, Web Security | [Add Repo Link](#) |
+| **Phishing Simulation & Detection Lab** | Controlled phishing workflow built to analyze attack vectors, credential-harvesting indicators, and user-awareness defenses. | Bash, HTML, Social Engineering Defense, IOC Analysis | [Add Repo Link](#) |
 
 ---
 
-### 🚧 Currently Building / Learning
+## Certifications & Academic Focus
 
-![Kali](https://img.shields.io/badge/Kali_Linux-Ethical%20Hacking-blue?logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-Web_App_Security-orange?logo=burpsuite&logoColor=white)
-![SIEM](https://img.shields.io/badge/SIEM-Splunk/ELK-green?logo=splunk&logoColor=white)
-![Network](https://img.shields.io/badge/Network_Forensics-packet%20analysis-yellow?logo=wireshark&logoColor=blue)
-![AI Cybersecurity](https://img.shields.io/badge/AI+Cybersecurity-Threat_Detection-purple?logo=ai&logoColor=white)
+<details>
+<summary><b>View Certifications & MSc Cybersecurity Focus Areas</b></summary>
 
-- 🔍 Threat Hunting & Blue Teaming
-- ⚔️ Penetration Testing & Red Team Basics
-- 📊 SOC Analyst Tools (Splunk, ELK Stack)
-- 🧠 AI-Enhanced Detection Systems
-- 🕵️‍♀️ Incident Response + Network Forensics
+### Certifications
+- **Completed:** Certified Ethical Hacker (CEH)
+- **Active Focus:** CompTIA Security+, Blue Team Level 1 (BTL1), Microsoft SC-200
+- **Long-Term Roadmap:** CompTIA CySA+, CCNA, eJPT, OSCP
 
----
+### MSc Coursework Areas (Dublin Business School)
+- Networks & Systems Administration
+- Cybersecurity Research: Threats, Technologies & Governance
+- Cryptography & Digital Forensics
+- Advanced Databases & Secure Programming
 
-### 🧠 Cybersecurity Platforms I'm Active On
-
-| Platform | Profile |
-|---------|---------|
-| 🛡️ Blue Team Labs | [My BTL Profile](https://blueteamlabs.online/home/user/0f049be7d0a9b4e56378d7) |
-| 🔐 Hack The Box | [Shiva152](https://account.hackthebox.com/dashboard) |
-| 🧠 TryHackMe | [krishnatejasiva2](https://tryhackme.com/p/krishnatejasiva2) |
-| 📊 CyberDefenders | [My Profile](https://cyberdefenders.org/p/krishnatejasiva2#/overview) |
-| 🌐 Shodan | [Shodan Dashboard](https://account.shodan.io/) |
-| 🧬 Root Me | [RootMe.org](https://www.root-me.org/?page=news&lang=fr) |
-| 🎓 INE | [INE Dashboard](https://my.ine.com/dashboard/profile) |
-| 🧪 Autopsy | [Sleuth Kit](https://www.sleuthkit.org/autopsy) |
-| 🐧 REMnux | [REMnux Toolkit](https://remnux.org) |
-| 🔬 ANY.RUN | [ANY.RUN Malware Sandbox](https://any.run) |
+</details>
 
 ---
 
-### 📡 Stay Up-to-Date on Cybersecurity
+## Active Cybersecurity Platforms
 
-- 📰 [The Hacker News](https://thehackernews.com/) – Daily cyber news
-- 🧠 [Security Weekly](https://securityweekly.com/) – Podcasts + insights
-- 🔍 [Krebs on Security](https://krebsonsecurity.com/) – Investigative reporting
-- 📬 [TLDRSec Newsletter](https://tldrsec.com/) – Weekly digest for pros
-- 🧪 [Cybersecurity Reddit](https://www.reddit.com/r/cybersecurity/) – Real-time discussion
-
----
-
-### 📬 Contact & Networking
+| Platform | Public Profile |
+| :--- | :--- |
+| **Blue Team Labs Online** | [View BTL Profile](https://blueteamlabs.online/home/user/0f049be7d0a9b4e56378d7) |
+| **TryHackMe** | [krishnatejasiva2](https://tryhackme.com/p/krishnatejasiva2) |
+| **CyberDefenders** | [krishnatejasiva2](https://cyberdefenders.org/p/krishnatejasiva2#/overview) |
+| **Hack The Box** | *Add public `app.hackthebox.com/profile/...` URL* |
+| **Root-Me** | *Add public `root-me.org/<username>` URL* |
 
 ---
 
-### 📬 Contact & Networking
+## Connect
 
-| Platform | Link |
-|---------|------|
-| 🌐 Portfolio | [Visit Now](https://serene-klepon-b63fa4.netlify.app/) |
-| 💼 LinkedIn | [Siva Krishna Teja Polisetty](https://www.linkedin.com/in/polisetty-siva-krishna-teja-b99477220/) |
-| 📧 Email  |krishnatejasiva2@gmail.com |
-| 📄 Resume | [Download PDF](https://github.com/SivaKrishnaTeja482/SivaKrishnaTeja482/raw/main/Siva_KT_Cybersecurity_Resume_2025.pdf)
-
-[![Resume](https://img.shields.io/badge/Resume-PDF-blue?logo=adobeacrobatreader&logoColor=white)](https://github.com/SivaKrishnaTeja482/SivaKrishnaTeja482/raw/main/Siva_KT_Cybersecurity_Resume_2025.pdf)
-
----
-
-### 🔰 Unique Visual Badges
-
-![TryHackMe](https://img.shields.io/badge/TryHackMe-krishnatejasiva2-red?logo=tryhackme)
-![HackTheBox](https://img.shields.io/badge/HackTheBox-Shiva152-black?logo=hackthebox)
-![CyberDefenders](https://img.shields.io/badge/CyberDefenders-Analyst-blue?style=flat-square)
-![BlueTeamLabs](https://img.shields.io/badge/BTLO-Defender-green?style=flat-square)
-
----
-
-### 🛡️ Final Thought
-
-> **"Cybersecurity isn't about fear—it’s about control, awareness, and staying five steps ahead."**
-
-Thank you for stopping by. If you're a recruiter, hacker, student, or learner—let's connect and secure the future together.
-
----
+- **LinkedIn:** [Siva Krishna Teja Polisetty](https://www.linkedin.com/in/polisetty-siva-krishna-teja-b99477220/)
+- **Portfolio:** [serene-klepon-b63fa4.netlify.app](https://serene-klepon-b63fa4.netlify.app/)
+- **Email:** [krishnatejasiva2@gmail.com](mailto:krishnatejasiva2@gmail.com)
